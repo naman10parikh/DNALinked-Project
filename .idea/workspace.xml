@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35939a1d-f7d0-464a-b5ee-6adf4ddb7ba8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/DNABenchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DNABenchmark.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iERjTNUeC86V0C1Ps71OkhFgF8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DNABenchmark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DNABenchmark" />
+      <module name="P4-DNAlinked" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DNABenchmark" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35939a1d-f7d0-464a-b5ee-6adf4ddb7ba8" name="Default Changelist" comment="" />
+      <created>1601470902392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601470902392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1601982198135">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.683@0.0.1280.683" timestamp="1601982198135" />
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1601508373659">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1280.683@0.0.1280.683" timestamp="1601508373659" />
+    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1601508373658">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1280.683@0.0.1280.683" timestamp="1601508373658" />
+    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1601508373658">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1280.683@0.0.1280.683" timestamp="1601508373658" />
+    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1601508373658">
+      <screen x="0" y="0" width="1280" height="683" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1280.683@0.0.1280.683" timestamp="1601508373658" />
+  </component>
+</project>
