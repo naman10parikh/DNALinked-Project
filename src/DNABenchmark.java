@@ -1,18 +1,12 @@
 import java.io.File;
 import java.util.*;
 
-/**
+ /*
  * Code for benchmarking the time taken to simulate cutting
  * and splicing strands of DNA. These benchmark methods are
  * intended to be used in reasoning about tradeoffs in using 
  * a linked list to represent a strand of DNA and to compare
  * this representation with a simple String representation.
- * @author Owen Astrachan
- * @date 2/11/2009
- * 
- * Update: System.nanoTime, Repeated and threaded tests.
- * @contributor Brian Lavallee
- * @date 10 March 2016
  */
 
 import javax.swing.JFileChooser;
