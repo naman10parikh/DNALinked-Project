@@ -1,13 +1,12 @@
 import java.util.Iterator;
 
-/**
+ /*
  * This class serves to iterate over all the characters in
  * a strand of dna. Internally it uses the IDnaStrand.charAt
  * method, so performance will be "good" if sequential
  * access via consecutive indexes results in O(n)
  * performance for n calls of .charAt with indexes
  * in order
- * @author ola 
  *
  */
 public class CharDnaIterator implements Iterator<Character> {
