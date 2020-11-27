@@ -4,18 +4,11 @@ import org.junit.jupiter.api.*;
 import java.time.Duration;
 import java.util.Iterator;
 
-/**
+ /*
  * Class for running JUNit tests with different implementations of IDnaStrand.
  * To use a different implementation alter the method <code>getNewStrand</code>
  * since that method is called by all JUnit tests to create the IDnaStrand
  * objects being tested.
- * 
- * @author ola
- * @date January 2008, modified and commented in September 2008
- * @date January 2009, added splice testing
- * @date October 2015, added nodeList
- * @date October 2016, updated for iterator and no "" strings
- * @date September 2020, updated by Charles Lyu
  */
 
 public class TestStrand {
