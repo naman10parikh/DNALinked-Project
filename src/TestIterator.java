@@ -3,11 +3,10 @@ import org.junit.jupiter.api.*;
 
 import java.util.*;
 
-/**
+ /*
  * Testing iterator
- * @author ola
- *
  */
+
 public class TestIterator {
 	private static IDnaStrand ourStrand;
 	private static boolean isInitialized = false;
