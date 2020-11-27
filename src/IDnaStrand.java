@@ -1,16 +1,9 @@
 import java.util.Iterator;
 
-/**
+ /*
  * Interface for DNA/strand experiments
- * 
- * @author Owen Astrachan
- * @date February, 2008
- * @date October, 2011, removed cutWith and added reverse
- * @date October, 2016, removed methods that aren't used in assignment,
- * also added .charAt(int index) and .getInstance() 
- * @date October, 2017, added cutAndSplice here
- * @date October 2018, added codonProfile
  */
+
 public interface IDnaStrand extends Iterable<Character>{ 
 	/**
 	 * Cut this strand at every occurrence of enzyme, essentially replacing
